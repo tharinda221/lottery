@@ -1,4 +1,4 @@
-package com.ideamart.sample.ussd;
+package com.ideamart.sample.ussd.backendOperations;
 
 /**
  * This class is created to backend operations
